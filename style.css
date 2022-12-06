@@ -1,0 +1,85 @@
+div
+{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    } 
+body
+{
+   background-color: #1b1b1b;
+   color: rgb(255, 255, 255);
+}
+.img{
+   position:absolute;
+   border: 7px; 
+   top:100px;
+   left: 850px;
+   }
+.img img{
+    height: 60px;
+    width: 50px;
+}
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color:rgb(67, 67, 67);
+    margin-bottom: 10px
+    }
+#mobile {
+    float:right;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+#email{
+    float:left;
+    margin-right: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    /*margin-right: -10px;
+    margin-left: 14%;*/
+    height: auto;
+    width: 99%;
+    background-color: #1b1b1b;
+    }
+
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color:rgb(67, 67, 67);
+    }
+    
+h3
+{
+    text-decoration: underline;
+    background-color:rgb(67, 67, 67);
+    color: aqua;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #ffffff;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+#heading
+{
+    font-weight:bold;
+    }
